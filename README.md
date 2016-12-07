@@ -98,5 +98,3 @@ the tests:
 
 Take a look at the `examples/` and `test/` directories for more.
 
-email: dberesford at gmail
-twitter: @dberesford
